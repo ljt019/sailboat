@@ -1,6 +1,6 @@
-# Sailboat Exhibit Star Map Scrolling
-
 [![Sci-Port](https://cdn.freebiesupply.com/logos/large/2x/sci-port-logo-png-transparent.png)](https://sci-port.org/)
+
+# Sailboat Exhibit Star Map Scrolling
 
 An interactive sailboat exhibit featuring a scrolling star map display, controlled by a rudder-mounted potentiometer. This project is part of a science museum installation.
 
