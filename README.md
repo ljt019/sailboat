@@ -1,6 +1,4 @@
-[![Sci-Port](https://cdn.freebiesupply.com/logos/large/2x/sci-port-logo-png-transparent.png)](https://sci-port.org/)
-
-# Sailboat Exhibit Star Map Scrolling
+# Sailboat Exhibit
 
 An interactive sailboat exhibit featuring a scrolling star map display, controlled by a rudder-mounted potentiometer. This project is part of a science museum installation.
 
@@ -76,3 +74,5 @@ Key constants in `sky_image.rs`:
 - `SCROLL_SPEED_MULTIPLIER`: Scroll speed adjustment (default: 2.5)
 
 Modify these values to fine-tune the exhibit's behavior.
+
+[![Sci-Port](https://cdn.freebiesupply.com/logos/large/2x/sci-port-logo-png-transparent.png)](https://sci-port.org/)
