@@ -10,6 +10,8 @@ use macroquad::prelude::*;
 async fn main() {
     set_fullscreen(true);
 
+    show_mouse(false);
+
     let mut sensor = SensorServer::new();
 
     let mut sky = SkyImage::new().await;
